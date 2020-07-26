@@ -1,0 +1,10 @@
+C
+Elon Musk
+True
+A
+B
+Tokyo
+False
+True
+B
+False

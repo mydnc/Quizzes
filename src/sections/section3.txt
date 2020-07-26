@@ -1,0 +1,34 @@
+!Text!
+Amazon boss Jeff Bezos pledged $10billion to help fight what global issue?
+!True_False!
+The mathematical name for the shape of a Pringle is hyperbolic paraboloid.
+!Text!
+What is the capital of Australia?
+!Multiple_Choice!
+What are the main colors on the flag of Spain?
+Black and yellow
+Pink and purple
+Yellow and red
+Blue and yellow
+*
+!Text!
+What is a baby elephant called?
+!Multiple_Choice!
+Who killed Greedo in Starwars?
+Hannibal Lecter
+Han Solo
+Elon Musk
+Hercules
+*
+!True_False!
+Stephen Hawking declined a knighthood from the Queen.
+!Text!
+What is the national sport of Japan?
+!Multiple_Choice!
+How many points is the letter X worth in English-language Scrabble?
+8
+9
+10
+*
+!True_False!
+Turkey is an Arab country.

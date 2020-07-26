@@ -1,0 +1,34 @@
+!Text!
+Which legendary basketball player had the nickname "Air"?
+!True_False!
+According to Scottish law, it is illegal to be drunk in charge of a cow.
+!Text!
+What is the largest planet?
+!Multiple_Choice!
+How many rings are on the Olympic flag?
+None
+4
+5
+7
+*
+!True_False!
+The can-opener was not invented until 45 years after the tin can.
+!Multiple_Choice!
+What is a tarsier?
+A primate
+A lizard
+A bird
+*
+!Multiple_Choice!
+How did Spider-Man get his powers?
+Military experiment gone awry
+Born with them
+Woke up with them after a strange dream
+Bitten by a radioactive spider
+*
+!Text!
+What is the official language in Brazil?
+!True_False!
+A lion's roar can be heard up to eight kilometres away.
+!Text!
+Who plays Tommy Shelby in Peaky Blinders?

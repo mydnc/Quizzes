@@ -1,0 +1,10 @@
+Climate change
+True
+Canberra
+C
+Calf
+B
+True
+Sumo wrestling
+A
+False

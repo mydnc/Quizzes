@@ -1,0 +1,39 @@
+!Multiple_Choice!
+In darts, what's the most points you can score with a single throw?
+20
+50
+60
+100
+*
+!Text!
+Who was behind the SpaceX project where satellites could be seen from space?
+!True_False!
+Nicolas Cage and Michael Jackson were married to the same woman.
+!Multiple_Choice!
+Which of these animals does NOT appear in the Chinese zodiac?
+Bear
+Rabbit
+Dragon
+Dog
+*
+!Multiple_Choice!
+How many holes are on a standard bowling ball?
+2
+3
+5
+0
+*
+!Text!
+What is the largest city in the world by population?
+!True_False!
+'A' is the most common letter used in the English language.
+!True_False!
+There are 17 bridges in total over the Vltava river in Prague.
+!Multiple_Choice!
+Would a Catholic living in the United States ever celebrate Easter in May? 
+Yes
+No
+Sometimes
+*
+!True_False!
+K is worth four points in Scrabble.
