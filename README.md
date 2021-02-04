@@ -1,10 +1,10 @@
 A quizzes console application that reads questions and solutions from file. User interracts with the application by solving quizzes, cancel or continue to further sections, show score and detailed result board. 
 
-Program contains 3 sections and each section has mixed type 10 questions. Based on answers user can fail a section if he/she gets less than 50 points. Otherwise sections increase (maximum section 3).
+Program contains 3 sections and each section has mixed type 10 questions. Based on answers user can fail a section if user gets less than 50 points. Otherwise sections pass (maximum section 3).
 
 Every section contains different type of questions and answers. User can type text answer to the text question, makes true false decision on boolean questions and picks an choice between multiple choice questions. The program contains simple polymophism based on this idea.
 
-Also there is impelemented a menu system which user can navigate and reach his/her score through the score table and detailed section. When program runs for the first time on a new computer it creates score and result files automatically.
+Also there is impelemented a menu system which user can navigate and reach their score through the score table and detailed section. When program runs for the first time on a new computer it creates score and result files automatically.
 
 There is used special format in the question files to distinguish different type of questions and store them in to related containers. Program checks for simple word and character combinations to determine the question types.
 
