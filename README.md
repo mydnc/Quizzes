@@ -16,6 +16,11 @@ Then in the same directory you run:
 
 If you do not see your result after each section by checking the score board, then you need to run the application as a super user to be able to write your score to the related text files.
 
+Class Diagram
+-----------------------------------------------------------------------------
+![Class Diagram](doc/Class_Diagram.jpg)
+
+
 Screen Shots
 -----------------------------------------------------------------------------
 1-You can start to navigate within the program by entering the appeared choices.
